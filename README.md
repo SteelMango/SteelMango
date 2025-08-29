@@ -1,6 +1,6 @@
 ## Hi there, I'm Penelope Farquharson 
 
-I'm from the United Kingdom, a third year Cyber Security Lancaster University 🇬🇧. 
+I'm from the United Kingdom, a third year Cyber Security student at Lancaster University 🇬🇧. 
 
 All my coding projects are my progression towards understanding a topic and solving problems thorugh application.
 I also love bouldering and playing Deep Rock Galactic! 
