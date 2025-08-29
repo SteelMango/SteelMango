@@ -16,6 +16,12 @@ I'm from the United Kingdom 🇬🇧. I love coding in Python, Java and C++ 💻
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img  align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+
+<img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+
+<img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+          
+          
           
           
           
