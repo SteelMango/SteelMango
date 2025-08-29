@@ -1,7 +1,8 @@
 ## Hi there, I'm Penelope Farquharson 
 
-I'm from the United Kingdom, i'm a third year Cyber Security Lancaster University 🇬🇧. 
-I love coding in Python, Java and C++ 💻. I also love Bouldering 🧗🏼‍♀️, making mods for games 🛠️ and playing Deep Rock Galantic 🕷️🪨
+I'm from the United Kingdom, a third year Cyber Security Lancaster University 🇬🇧. 
+All my coding projects are my progression towards understanding a topic and solving problems thorugh application.
+I also love bouldering and playing Deep Rock Galactic! 
 
 ## Languages and Tools
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
