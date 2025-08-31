@@ -6,6 +6,9 @@ All my coding projects are my progression towards understanding a topic and solv
 I also love bouldering and playing Deep Rock Galactic! 
 
 ## Languages and Tools
+
+<img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+          
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
