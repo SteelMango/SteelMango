@@ -1,4 +1,4 @@
-## Hi there, I'm Penelope Farquharson 
+## Hi there, 
 
 I'm from the United Kingdom, a third year Cyber Security student at Lancaster University 🇬🇧. 
 
