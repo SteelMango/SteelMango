@@ -1,6 +1,6 @@
 ## Hi there, 
 
-I'm a Graduate Cyber Security student at Lancaster University from the United Kingdom 🇬🇧. 
+I'm a Graduate BSc (Hons) Cyber Security student at Lancaster University from the United Kingdom 🇬🇧. 
 
 All my coding projects are my progression towards understanding a topic and solving problems thorugh application.
 I also love bouldering and playing Deep Rock Galactic! 
