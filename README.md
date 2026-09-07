@@ -28,6 +28,8 @@ I also love bouldering and playing Deep Rock Galactic!
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+
+<img align=left width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           
           
           
